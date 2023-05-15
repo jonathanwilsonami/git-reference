@@ -3,7 +3,7 @@
 ## Config 
 
 ## Remote Branches 
-git push origin <local-branch>:<remote:branch>
+`` git push origin <local-branch>:<remote:branch> ``
 
 ## Commits 
 git commit --amend ...
