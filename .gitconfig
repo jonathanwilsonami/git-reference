@@ -1,15 +1,15 @@
 [color]
-        diff = auto
-        status = auto
-        branch = auto
-        interactive = auto
-        ui = true
-        pager = true
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+    ui = true
+    pager = true
 
 [color "status"]
-       added = green
-       changed = red
-       untracked = magenta
+   added = green
+   changed = red
+   untracked = magenta
        
 [user]
     name = YOUR_NAME
