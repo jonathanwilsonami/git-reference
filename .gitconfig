@@ -1,3 +1,4 @@
+# UI 
 [color]
     diff = auto
     status = auto
@@ -11,6 +12,7 @@
    changed = red
    untracked = magenta
        
+# User settings
 [user]
     name = YOUR_NAME
     email = YOUR_EMAIL        
