@@ -1,2 +1,2 @@
-# git-reference
+# Git Reference
 Git Reference Notes
