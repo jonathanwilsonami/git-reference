@@ -31,6 +31,15 @@ git rebase -i c0
 In the interactive mode change pick to squash or s. Leave the top one as pick. 
 ```
 
+## Inspection 
+```
+git diff my-file
+git diff master...<branch> # compares the changes between two branches: master and branch. The ... notation is known as the "triple-dot" syntax, and it represents a range of commits.
+I will display the changes that are unique to branch since it diverged from master.
+
+git log
+```
+
 ## Security 
 ```
 ssh-keygen -t ed25519 -C "my-name@email.com"
