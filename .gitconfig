@@ -10,3 +10,7 @@
        added = green
        changed = red
        untracked = magenta
+       
+[user]
+    name = YOUR_NAME
+    email = YOUR_EMAIL        
