@@ -19,3 +19,6 @@
     
 [alias]
     se = !git rev-list --all | xargs git grep -F # Search for a term in git project. Usage: 'git se <term>'
+    res = !git reset --hard # Clean all changes. Warning will delete work in WD. 
+    gl = config --global -l
+    alias = !git config --global -l | grep alias # List all available aliases in .gitconfig
