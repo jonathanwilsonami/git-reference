@@ -15,4 +15,7 @@
 # User settings
 [user]
     name = YOUR_NAME
-    email = YOUR_EMAIL        
+    email = YOUR_EMAIL     
+    
+[alias]
+    se = !git rev-list --all | xargs git grep -F # Search for a term in git project. Usage: 'git se <term>'
