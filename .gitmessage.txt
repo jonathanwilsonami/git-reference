@@ -1,0 +1,8 @@
+# Change this as needed and make accessable via 'git config --global commit.template <file-location>'
+subject line...
+
+what happened
+- thing 1
+- thing 2
+
+[ticket: X]
